@@ -4,9 +4,21 @@ This gap was bridged by simulating these adventitious sounds real-time during cl
 Goals of the app:
 
 
-  #User interface with heart, right and left lung, right and left neck, abdominal button over a human body schematic. 
-  #Each button shall be able to play a pre-determined sound in loop until stopped.
-  #Sound shall stop when the button is pressed again or a different button is triggered. 
-  #Each sound clip will be 3-5 seconds in duration.
-  #Ability to speed up or slow down the playback speed of sounds.
-  #Ability to toggle volume using the side volume keys while app is active.
+  
+  -User interface with heart, right and left lung, right and left neck, abdominal button over a human body schematic. 
+  
+  
+  -Each button shall be able to play a pre-determined sound in loop until stopped.
+  
+  
+  -Sound shall stop when the button is pressed again or a different button is triggered. 
+  
+  
+  -Each sound clip will be 3-5 seconds in duration.
+  
+  
+  -Ability to speed up or slow down the playback speed of sounds.
+  
+  
+  -Ability to toggle volume using the side volume keys while app is active.
+  

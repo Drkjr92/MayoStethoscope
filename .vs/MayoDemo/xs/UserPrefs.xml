@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A3011421-53EE-9FAA-A360-9DF1C4C59E1C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/StarCollider.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/StarCollider.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MayoDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="StarCollider.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,6 +1,8 @@
 # Mayo Clinics Stethoscope Simulation app.
 Background: Clinical simulation based education is used routinely for teaching commonly encountered scenerios. This includes actors (standarized patients) to simulate most signs and symptoms. Limitations occur with ability to simulate certain physical exam findings such as heart, lung and abdominal sounds for obvious reasons. 
 This gap was bridged by simulating these adventitious sounds real-time during clinical simulation by rigging a stethoscope with ear-pieces replaced by a Bluetooth enabled earphones connected to an iOS device with sound clips played through an open source media app.
+
+
 Goals of the app:
 
 

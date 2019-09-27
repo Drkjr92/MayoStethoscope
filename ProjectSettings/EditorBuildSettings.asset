@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d253e7a290b8b4812bc611edb0b46336
+    path: Assets/Scenes/MayoStethoscope.unity
+    guid: 6b5b30ae8d7514fb2bbb65aa8cfdfa49
   m_configObjects: {}

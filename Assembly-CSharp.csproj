@@ -63,18 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenes\Scripts\StarCollider.cs" />
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -84,11 +72,17 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
@@ -110,6 +104,12 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>/Users/wilcox-kim/Mayo/MayoDemo/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
